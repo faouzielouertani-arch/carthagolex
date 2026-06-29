@@ -364,16 +364,28 @@ Il s'agit d'une **Obligation de Quitter le Territoire Français (OQTF)** prononc
 - **Recours devant la CEDH** : En cas d'échec des recours internes, un recours devant la **Cour européenne des droits de l'homme** pourrait être envisagé (article 8 CEDH : droit au respect de la vie privée et familiale).
 
 ---
+## 🔗 **Ressources Externes et Dépôts GitHub Recommandés**
 
-## 🔗 **Ressources Utiles**
+Pour enrichir vos analyses juridiques, voici une sélection des **meilleurs dépôts GitHub et ressources en ligne** spécialisés en droit des étrangers et droit français :
 
-- [Légifrance — CESEDA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043183430/)
-- [Légifrance — Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006838188/)
-- [Accord franco-algérien (1968)](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000320465/)
-- [Convention franco-tunisienne (1988)](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000410478/)
-- [Site du Défenseur des droits](https://www.defenseurdesdroits.fr/)
-- [Site de la Cimade](https://www.lacimade.org/)
-- [Site de la Ligue des droits de l'homme (LDH)](https://www.ldh-france.org/)
+### 🏆 **Dépôts GitHub**
+| Dépôt | Description | Lien | Utilité |
+|-------|-------------|------|---------|
+| **lawve-ai/awesome-legal-skills** | Liste organisée de **skills juridiques** pour automatiser le travail juridique (droit français, européen, international). | [🔗 Lien](https://github.com/lawve-ai/awesome-legal-skills) | ✅ Inspiration pour de nouveaux modules. |
+| **etalab/codes-juridiques-francais** | **CESEDA et codes français** au format Git et Markdown (source officielle : base LEGI de la DILA). | [🔗 Lien](https://github.com/etalab/codes-juridiques-francais) | ✅ Source officielle pour les textes juridiques. |
+| **Seb35/loifrancaise** | Bibliothèque de gestion des **bases juridiques françaises** (projet Archéo Lex). | [🔗 Lien](https://github.com/Seb35/loifrancaise) | ✅ Intégration des textes juridiques structurés. |
+| **openclaw/skills** | **Générateur de documents juridiques** pour freelances/micro-entrepreneurs (CGV, contrats, devis). | [🔗 Lien](https://raw.githubusercontent.com/openclaw/skills/main/skills/hugosbl/legal-docs-fr/SKILL.md) | ✅ Exemple de skill automatisé pour la rédaction. |
+
+### 📚 **Sites Spécialisés en Droit des Étrangers**
+| Site | Description | Lien |
+|------|-------------|------|
+| **GISTI** | **Référence absolue** en droit des étrangers : textes juridiques (CESEDA), jurisprudence, analyses, formations. | [🔗 Site](https://www.gisti.org/) |
+| **Justifit - CESEDA** | Guide complet sur le **CESEDA** : titres de séjour, OQTF, demandes d'asile, recours. | [🔗 Lien](https://www.justifit.fr/b/guides/droit-etrangers/ceseda/) |
+| **Info Droits Étrangers** | **Mesures administratives** (OQTF, IRTF, ICTF), procédures de contestation, délais et recours. | [🔗 Lien](https://www.info-droits-etrangers.org/sejourner-en-france/limpossibilite-du-maintien-en-france/les-mesures-administratives/) |
+
+### 🤖 **Outils et Connecteurs pour IA Juridique**
+- **[Legal Data Hunter](https://meta-doctrinal.org/)** : Accès à **38 millions de documents juridiques** (décisions de cours suprêmes, législation codifiée, jurisprudence UE).
+- **[Pappers](https://www.pappers.fr/)** et **[OpenLegi](https://openlegi.fr/)** : Bases de données pour la recherche de jurisprudence et textes officiels.
 
 ---
 
