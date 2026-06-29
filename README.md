@@ -1,8 +1,8 @@
 # CarthagoLex Skills
 
-> **Expertise en droit des étrangers français** — Cabinet Pro'action Conseil, Grenoble
+> **Expertise en droit des étrangers français** — Faouzi El Ouertani, Juriste à Grenoble (38000)
 
-Ce dépôt contient les **Skills** spécialisés pour l'assistance juridique en droit des étrangers, développés par **CarthagoLex** (Pro'action Conseil).
+Ce dépôt contient les **Skills** spécialisés pour l'assistance juridique en droit des étrangers, développés par **CarthagoLex** (Faouzi El Ouertani).
 
 ## Structure du projet
 
@@ -46,11 +46,10 @@ Chaque **Skill** est conçu pour être utilisé avec des assistants IA (Claude, 
 
 ## À propos de CarthagoLex
 
-**CarthagoLex** est une initiative du **cabinet Pro'action Conseil** (Grenoble), spécialisé en droit des étrangers et droit administratif.
+**CarthagoLex** est une initiative de **Faouzi El Ouertani, Juriste à Grenoble (38000)**, spécialisé en droit des étrangers et droit administratif.
 
-- **Site web** : [Pro'action Conseil](https://www.proaction-conseil.fr)
-- **Contact** : contact@proaction-conseil.fr
-- **Localisation** : Grenoble, France
+- **Email** : faouzi.elouertani@gmail.com
+- **Localisation** : Grenoble (38000), France
 
 ## Licence
 
