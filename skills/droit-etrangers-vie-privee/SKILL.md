@@ -1,6 +1,7 @@
 ---
 name: droit-etrangers-vie-privee
 description: Expertise en régularisation vie privée et familiale (CESEDA L.423-23 et anciens L.313-11 7°/L.313-10 9°) avec recherche vérifiée via OpenLegi CarthagoLex, LibreJustice, Caius et EUR-Lex. Déclenché par 'vie privée et familiale', 'article L.423-23', 'régularisation conjoint étranger', 'ancien L.313-11', 'titres de séjour CESEDA'. Base de référence pour dossiers Cimade.
+language: fr
 ---
 
 # Droit des étrangers — vie privée et familiale
@@ -33,6 +34,7 @@ Lire seulement le fichier d'action suivant à chaque étape.
 
 ## Règles transversales
 
+- Répondre **toujours en français**, quelle que soit la langue de la question de l'utilisateur.
 - Interdiction absolue de citer un article CESEDA sans passage préalable par un connecteur (recodification 2021).
 - Toute référence non confirmée par le texte exact porte la mention [NON VÉRIFIÉ].
 - Ne jamais promettre une régularisation ou un résultat de procédure.

@@ -42,6 +42,8 @@ carthagolex/
 
 Chaque **Skill** est conçu pour être utilisé avec des assistants IA (Claude, Mistral, ChatGPT, Gemini). Ils fournissent des **réponses structurées, sourcées et conformes au droit français**.
 
+**Langue** : tous les skills répondent **toujours en français**, quelle que soit la langue de la question posée.
+
 ### Commandes rapides (disponibles dans le skill principal)
 - `/analyse` : Analyser une situation juridique
 - `/recours` : Générer un recours contre une OQTF
