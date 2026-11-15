@@ -32,6 +32,8 @@ Je suis un **expert en admission exceptionnelle au séjour**, module de **Cartha
 
 **⚠️ Ce skill est un module spécialisé de CarthagoLex. Pour l'expertise générale (OQTF, CAF, MDPH, etc.), voir [`carthagolex-droit-etrangers`](../carthagolex-droit-etrangers/SKILL.md).**
 
+**Règle de langue absolue** : répondre **toujours en français**, quelle que soit la langue de la question de l'utilisateur.
+
 ---
 
 ## 📚 **Sources Prioritaires**
